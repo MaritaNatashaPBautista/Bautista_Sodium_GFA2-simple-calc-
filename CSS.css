@@ -1,0 +1,62 @@
+.Calculator {
+	background-color: #ffe6f3;
+	border: 2px;
+	border-radius: 12px;
+	margin: auto;
+  width: 50%;
+  padding: 10px;
+}
+.header {
+	text-align: center;
+	background-color: white;
+	border: 2px;
+	border-style: solid;
+	border-color: #ff1a90;
+	border-radius: 12px;
+	margin: auto;
+	width: 25%;
+}
+.description {
+	background-color: #ff1a90;
+	border: 2px;
+	border-radius: 12px;
+	margin: auto;
+	width: 40%;
+	text-align: center;
+	margin-top: 2%;
+	color: white;
+}
+.instructions_1 {
+	background-color: #ffb3db;
+	border: 2px;
+	border-radius: 12px;
+	margin: auto;
+	width: 40%;
+	text-align: center;
+	margin-top: 2%;
+	color: white;
+	float: right;
+	margin-left: 0%;
+}
+.instructions_2 {
+	background-color: #ffb3db;
+	border: 2px;
+	border-radius: 12px;
+	margin: auto;
+	width: 40%;
+	text-align: center;
+	margin-top: 2%;
+	color: white;
+	float: right;
+	margin-left: 0%;
+}
+.buttons {
+	margin-right: 10%;
+}
+.results {
+	background-color: #ff66b8;
+	border: 2px;
+	border-radius: 12px;
+	width: 40%;
+	color: white;
+}
